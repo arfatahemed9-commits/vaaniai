@@ -1,0 +1,6 @@
+{
+  "name": "VaaniAI",
+  "description": "Full-stack AI voice generator and audio enhancer web application. Features high-fidelity text-to-speech and a professional voice isolator/noise-remover for natural-sounding speech and studio-grade voice clarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
